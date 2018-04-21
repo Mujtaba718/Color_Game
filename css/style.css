@@ -28,7 +28,7 @@ h1 {
 }
 
 #container {
-    margin: 20px auto; /*top right bottom left*/ top/bottom left/right
+    margin: 20px auto; /*top right bottom left*/ 
     max-width: 600px;
 }
 
